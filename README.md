@@ -51,6 +51,10 @@ This is a fullstack web application built for a technical test. It allows users 
 
 ## 🐳 How to Run (via Docker)
 
+
 ```bash
 # Build and start the app
 docker-compose up --build
+```
+![Demo](demo.gif)
+```
