@@ -25,7 +25,7 @@ This is a fullstack web application built for a technical test. It allows users 
 ### DevOps / Tooling
 - Docker / Docker Compose
 - Environment variables in `.env`
-- VSCode / GitHub for development
+- Jetbrains / GitHub for development
 
 ---
 
