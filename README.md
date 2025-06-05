@@ -1,4 +1,4 @@
-# 🔐 Fullstack Test Project – Next.js, React, Symfony, MongoDB
+# 🔐 Next.js, React, Symfony, MongoDB
 
 ## 🧾 Description
 
